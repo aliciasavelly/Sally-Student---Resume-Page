@@ -1,0 +1,20 @@
+section {
+  padding: 10px;
+  font-family: Garamond;
+}
+
+main {
+  padding: 10px;
+  font-family: Garamond;
+}
+
+section1 {
+  padding: 30px;
+  position: relative;
+  right: -20px;
+}
+
+address {
+  padding: 10px;
+  font-family: Garamond;
+}
